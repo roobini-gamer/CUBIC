@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://i.ibb.co/v44GsVRk/Duck-ai-image-2026-06-14-18-17.jpg" width="200"></a>
+  <a href="https://github.com/roobini-gamer/CUBIC"><img src="https://i.ibb.co/v44GsVRk/Duck-ai-image-2026-06-14-18-17.jpg" width="200"></a>
   <br>
   C.U.B.I.C
   <br>
