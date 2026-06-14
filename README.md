@@ -1,3 +1,12 @@
+<h1 align="center">
+  <br>
+  <a href="https://ibb.co/v44GsVRk"><img src="https://i.ibb.co/v44GsVRk/Duck-ai-image-2026-06-14-18-17.jpg" width="200"></a>
+  <br>
+  C.U.B.I.C
+  <br>
+  <br>
+</h1>
+
 # C.U.B.I.C - COBOL Universal Base Interactive Converter
 
 ![COBOL](https://img.shields.io/badge/Language-COBOL-blue)
